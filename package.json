@@ -1,0 +1,16 @@
+{
+  "name": "crypto-price",
+  "version": "1.0.0",
+  "description": "This is a Crypto Token Price Application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
